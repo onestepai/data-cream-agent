@@ -16,7 +16,7 @@ https://agent.datacream.ai
 
 Watch how DataCREAM Agentic System turns business context into agent workflow, data modeling, page planning, and business application delivery.
 
-<video src="https://youtu.be/nF3qSBP_QSE" controls width="100%"></video>
+[![Watch the DataCream demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=nF3qSBP_QSE) 
 
 If the video preview does not render in your Git hosting environment, open it directly:
 
