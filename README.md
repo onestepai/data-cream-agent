@@ -39,7 +39,7 @@ Data Analysis Requirement
         ↓
 Business Data Model
         ↓
-Agent Workflow
+Knowledge driven data analysis
         ↓
 Business Application
 ```
