@@ -6,9 +6,7 @@
 
 Product website:
 
-```text
-[agent.datacream.ai](https://agent.datacream.ai)
-```
+👉 [Try DataCream Agent](https://agent.datacream.ai)
 
 ---
 
