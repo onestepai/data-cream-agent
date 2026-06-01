@@ -7,7 +7,7 @@
 Product website:
 
 ```text
-https://agent.datacream.ai
+[agent.datacream.ai](https://agent.datacream.ai)
 ```
 
 ---
