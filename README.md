@@ -854,6 +854,4 @@ DataCREAM helps organizations move from isolated analysis to reusable decision i
 
 For product access, business cooperation, or technical discussion, please visit:
 
-```text
-info@1step.ai
-```
+[info@1step.ai](mailto:info@1step.ai?subject=DataCream%20Inquiry)
